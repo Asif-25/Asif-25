@@ -11,11 +11,11 @@
 I am Asif Rahman
 ===
 <img src="https://img.collegepravesh.com/2016/10/IIIT-Ranchi-Logo.png" width="30">
-<p><em>Studying Computer Science (Honours) at <a href="http://www.iiitranchi.ac.in">IIIT Ranchi</a>
+<p><em>I've completed my B.Tech in Computer Science (Honours) at <a href="http://www.iiitranchi.ac.in">IIIT Ranchi</a>
 </em></p>
 
 * 🌍  I'm from Darbhanga, India
-* 🧠  I'm learning React
+* 🧠  I'm a MERN Stack Developer
 
 ## 🔧 Technologies & Tools
 
